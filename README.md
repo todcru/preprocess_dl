@@ -4,12 +4,8 @@ This python package is a collaborative work of Aswin and Karthik. All rights res
 
 Dependencies
 
-pip install spacy==2.2.3
-python -m spacy download en_core_web_sm
-pip install beautifulsoup4==4.9.1
-pip install textblob==0.15.3
-
 How to use it for preprocessing
+
 You have to have installed spacy and python3 to make it work.
 1. Acquire the dataset
 Use open data. These are easily accessible and available to use, typically online.
