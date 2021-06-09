@@ -13,4 +13,5 @@ setuptools.setup(
 	author_email = 'aswinkumar.ec18@bitsathy.ac.in',
 	description = 'This is preprocessing package',
 	long_description = long_description,
+	long_description_content_type = 'text/markdown',
 	
